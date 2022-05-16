@@ -1,5 +1,5 @@
 package controller;
 
-public class TYK_Class {
+public class TYK_Class  {
 
 }
