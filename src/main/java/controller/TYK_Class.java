@@ -1,5 +1,5 @@
 package controller;
 
 public class TYK_Class  {
-	int a;
+	int a = 10;
 }
